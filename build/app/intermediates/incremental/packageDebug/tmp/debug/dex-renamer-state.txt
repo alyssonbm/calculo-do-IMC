@@ -1,4 +1,4 @@
-#Mon Nov 04 00:48:50 BRT 2019
+#Mon Nov 04 01:49:31 BRT 2019
 base.0=/home/diego/development/Projetos/imc-calculation/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
